@@ -60,7 +60,7 @@ if(numbers == 1 ){
     console.log("Wrong Number");
 }
 
-// Problem 4 : 4. Enter 3 Numbers do following arithmetic operation and find the one that is maximum and minimum 1. a + b * c 3. c + a / b 2. a % b + c 4. a * b + c
+// Problem 4. Enter 3 Numbers do following arithmetic operation and find the one that is maximum and minimum 1. a + b * c 3. c + a / b 2. a % b + c 4. a * b + c
 
 
 let a =  prompt("enter the value of a ");
