@@ -1,4 +1,4 @@
-//Read a single digit number and write the number in word
+// Problem 1 .Read a single digit number and write the number in word
 const prompt = require('prompt-sync')();
 let number = prompt("enter the number: ");
 if(number == 1 ){
