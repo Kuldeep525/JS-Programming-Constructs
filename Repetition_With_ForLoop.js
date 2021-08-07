@@ -1,4 +1,4 @@
-// Problem 1.1. Write a program that takes a command-line argument n and prints a table of the powers of 2 that are less than or equal to 2^n.
+// Problem 1. Write a program that takes a command-line argument n and prints a table of the powers of 2 that are less than or equal to 2^n.
 
 const prompt = require('prompt-sync')();
 let n = prompt("Enter the number ")
@@ -37,7 +37,7 @@ for(x = lowerBound ; x < upperBound ; x++){
 
 }
 
-// Problem 5 : 5. Write a program that computes a factorial of a number taken as input. Factorial – 5! = 1 * 2 * 3 * 4 * 5
+// Problem 5. Write a program that computes a factorial of a number taken as input. Factorial – 5! = 1 * 2 * 3 * 4 * 5
 
 let numbers = prompt("Enter the number")
 var factorial = 1 ;
